@@ -1,0 +1,15 @@
+{
+  "name": "makePaymentFunction",
+  "version": "3.38.0",
+  "description": "",
+  "main": "dynamodbManager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^ 9.0.1"
+  }
+}
